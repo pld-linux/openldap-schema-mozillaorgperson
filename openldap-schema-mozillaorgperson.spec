@@ -1,4 +1,5 @@
 Summary:	Mozilla LDAP schema
+Summary(pl):	Schemat LDAP dla Mozilli
 Name:		openldap-schema-mozillaorgperson
 Version:	0.6.3
 Release:	0.2
@@ -17,6 +18,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 This package contains LDAPv3 schema for use with the Mozilla Address
 Book.
+
+%description -l pl
+Ten pakiet zawiera schemat LDAPv3 do u¿ywania z ksi±¿k± adresow±
+Mozilli.
 
 %prep
 %setup -q -c -T

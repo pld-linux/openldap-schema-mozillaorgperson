@@ -1,5 +1,5 @@
 Summary:	Mozilla LDAP schema
-Summary(pl.UTF-8):   Schemat LDAP dla Mozilli
+Summary(pl.UTF-8):	Schemat LDAP dla Mozilli
 Name:		openldap-schema-mozillaorgperson
 Version:	0.6.3
 Release:	0.2
